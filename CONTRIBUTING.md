@@ -82,7 +82,7 @@ For example:
 -   If the issue is with the search functionality:
     -   **Make sure you have [`python`][python-url] installed correctly (remember the search functionality requires a working python installation).**
     -   Make sure it is in fact a problem with the search functionality itself, and not a problem with the plugins. If something does not work properly with the search functionality, the first step is to rule out search plugin-related issues.
-        -   For search plugin issues, report on the respective search plugin support page, or at [qbittorrent/search-plugins][search-plugins-url].
+        -   For search plugin issues, report on the respective search plugin support  page, or at [qbittorrent/search-plugins][search-plugins-url].
 
 ## Steps to ensure a good bug report
 
